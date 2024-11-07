@@ -33,5 +33,5 @@ Follow these steps to get the project running locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/e-commerce-app.git
+git clone https://github.com/1mertyuksel/e-commerce-app.git
 cd e-commerce-app
