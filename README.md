@@ -1,6 +1,6 @@
 # E-Commerce React App
 ![Main Page](imagesReadme/main.png)
-![Product Details](imagesReadme/productDetails.png)
+![Product Details](imagesReadme/productDetail.png)
 ![Cart](imagesReadme/cart.png)
 
 
