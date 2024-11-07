@@ -1,0 +1,69 @@
+/* Header genel yapı */
+.header-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px rgba(155, 135, 135, 0.1);
+    z-index: 1000;
+  }
+  
+  .light-theme {
+    background-color: #cee5b3;
+    color: rgb(46, 45, 48);
+  }
+  
+  .dark-theme {
+    background-color: rgb(42, 46, 41);
+    color: #fff;
+  }
+  
+  /* Logo ve metin */
+  .logo-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 35px;
+    margin-right: 20px;
+  }
+  
+  .logo-text {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  /* Arama çubuğu */
+  .search-section {
+    flex: 1;
+    max-width: 300px;
+    margin: 0 20px;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  /* İkonlar */
+  .icons-section {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-right: 50px;
+  }
+  
+  .icons {
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
