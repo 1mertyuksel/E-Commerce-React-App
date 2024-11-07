@@ -1,6 +1,12 @@
 # E-Commerce React App
+![Main Page](imagesReadme/main.png)
+![Product Details](imagesReadme/productDetails.png)
+![Cart](imagesReadme/cart.png)
+
+
 
 This project is developed as a basic e-commerce application. Users can browse products, add them to the cart, and view the total price of items in the cart. The project utilizes modern JavaScript technologies and tools.
+
 
 ## Features
 
